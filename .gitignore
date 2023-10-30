@@ -2,3 +2,4 @@ __pycache__
 Flask-AppBuilder
 venv
 app.db
+.env
