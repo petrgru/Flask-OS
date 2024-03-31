@@ -15,7 +15,7 @@ OPENID_PROVIDERS = [
     {"name": "Flickr", "url": "http://www.flickr.com/<username>"},
     {"name": "MyOpenID", "url": "https://www.myopenid.com"},
 ]
-
+# novy test
 # SQLALCHEMY_DATABASE_URI = "sqlite:///" + os.path.join(basedir, "app.db")
 # SQLALCHEMY_DATABASE_URI = 'mysql://username:password@mysqlserver.local/quickhowto'
 # SQLALCHEMY_DATABASE_URI = 'postgresql://scott:tiger@localhost:5432/myapp'
